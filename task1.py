@@ -1,3 +1,10 @@
+"""
+Task:
+1. Take input(to ask how many items)
+2. Ask which type of comprehension
+3. Create comprehension
+4. Print
+"""
 n = int(input('Enter the num of items:'))
 list1=[]
 for i in range(n):
