@@ -1,5 +1,5 @@
 """
-Task:
+Task-
 1. Take input(to ask how many items)
 2. Ask which type of comprehension
 3. Create comprehension
